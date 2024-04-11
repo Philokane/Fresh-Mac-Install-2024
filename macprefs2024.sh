@@ -115,11 +115,11 @@ defaults write com.apple.LaunchServices LSQuarantine -bool false
 # Install Google Cloud SDK and Components
 echo "Install Google Cloud SDK and Components"
     echo "Google Cloud SDK"        "brew install --cask google-cloud-sdk"
-    echo
-        echo "✔ Prepping Autocompletes and Paths"
-        source "$(brew --prefix)/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/path.bash.inc"
-        source "$(brew --prefix)/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/completion.bash.inc"
-    echo
+    # echo
+    #     echo "✔ Prepping Autocompletes and Paths"
+    #     source "$(brew --prefix)/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/path.bash.inc"
+    #     source "$(brew --prefix)/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/completion.bash.inc"
+    # echo
         if [ -e ~/google-cloud-sdk ]; then
             echo "✔ ~/google-cloud-sdk exists. Skipping"
         else

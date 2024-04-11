@@ -111,6 +111,11 @@
 echo "Installing Apps"
 
 echo "System apps..."
+
+echo "Installing oh-my-zsh" # https://sourabhbajaj.com/mac-setup/iTerm/zsh.html
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+
 brew install bash-completion 
 brew install zsh-completions
 brew install tree 

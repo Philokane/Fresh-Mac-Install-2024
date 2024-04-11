@@ -2,6 +2,20 @@
 
 This document describes the actions I take when configuring a new Mac OSX Installation. This Macbook Pro is a multi-functional devices for media and dev. 
 
+START: 
+- Install Homebrew
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+- Install Git
+```
+brew install git
+```
+
+
+
+
 ### System Preferences
 
 ### Finder Preferences

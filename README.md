@@ -2,6 +2,16 @@
 
 This document describes the actions I take when configuring a new Mac OSX Installation. This Macbook Pro is a multi-functional devices for media and dev.
 
+First change is to enable touch to click and drag lock in the Accessibility settings >> Trackpad Options >> `Use trackpad for dragging` `With Drag Lock`. Next change `Caps Lock` to `Escape` as a custom action by going to Settings >> Keyboard >> Keyboard Shortcuts >> Modifier Keys.
+
+**Pointer Control**
+Double-click speed `80%`
+Spring-loading `Off`
+
+**Trackpad Options...**
+Use trackpad for dragging `On`
+Dragging style `With Drag Lock`
+
 ### System Preferences
 
 ### Finder Preferences
@@ -76,7 +86,17 @@ Label position `Right`
 - Show scroll bars - Always
 - Click in the scroll bar to - Jump to the spot that's clicked.
 
+![Appearance](images/CleanShot%202024-04-11%20at%2012.02.39@2x.png)
+
 ### Accessibility
+
+**Pointer Control**
+Double-click speed `80%`
+Spring-loading `Off`
+
+**Trackpad Options...**
+Use trackpad for dragging `On`
+Dragging style `With Drag Lock`
 
 **Zoom**
 - Use keyboard shortcuts to zoom ✔️
@@ -85,6 +105,7 @@ Label position `Right`
 - Modifier key `^ Control`
 - Zoom style - Full Screen
 
+![Zoom](images/CleanShot%202024-04-11%20at%2012.24.36@2x.png)
 **Keyboard**
 
 - Key repeat rate - `Fast`
@@ -137,6 +158,7 @@ Secondary click `Click or Tap w/ Two Fingers`
 Tap to click `✔️`
 
 **Scroll & Zoom**
+(Defaults)
 Natural Scrolling `✔️`
 Zoom in or out `✔️`
 Smart zoom `✔️`

@@ -16,6 +16,10 @@ First install Homebrew in order to efficiently install other apps.
 brew install git
 ```
 
+Run the following command to install the required apps:
+```
+git clone https://github.com/Philokane/Fresh-Mac-Install-2024/
+
 
 **Pointer Control**
 Double-click speed `80%`

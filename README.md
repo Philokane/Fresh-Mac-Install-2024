@@ -4,6 +4,19 @@ This document describes the actions I take when configuring a new Mac OSX Instal
 
 First change is to enable touch to click and drag lock in the Accessibility settings >> Trackpad Options >> `Use trackpad for dragging` `With Drag Lock`. Next change `Caps Lock` to `Escape` as a custom action by going to Settings >> Keyboard >> Keyboard Shortcuts >> Modifier Keys.
 
+First install Homebrew in order to efficiently install other apps.
+
+- Install Homebrew
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+- Install Git
+```
+brew install git
+```
+
+
 **Pointer Control**
 Double-click speed `80%`
 Spring-loading `Off`

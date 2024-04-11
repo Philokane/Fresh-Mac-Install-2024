@@ -128,7 +128,7 @@ brew install go
 brew install tmux
 brew install tree
 brew install htop
-brew cask install alfred
+brew install --cask alfred
 brew install --cask notion
 brew install --cask iterm2
 brew install tldr # man pages https://tldr.sh/

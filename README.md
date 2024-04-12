@@ -95,7 +95,7 @@ Run `macprefs2024.sh` shell script
 ```
 ---
 
-### Manual Preferences Configurations
+## Manual Preferences Configurations
 
 **Pointer Control**
 Double-click speed `80%`

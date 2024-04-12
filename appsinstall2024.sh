@@ -111,6 +111,11 @@
 echo "Installing Apps"
 
 echo "System apps..."
+
+echo "Installing oh-my-zsh" # https://sourabhbajaj.com/mac-setup/iTerm/zsh.html
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+
 brew install bash-completion 
 brew install zsh-completions
 brew install tree 
@@ -123,7 +128,7 @@ brew install go
 brew install tmux
 brew install tree
 brew install htop
-brew cask install alfred
+brew install --cask alfred
 brew install --cask notion
 brew install --cask iterm2
 brew install tldr # man pages https://tldr.sh/
@@ -138,7 +143,6 @@ brew install --cask imageoptim
 brew install --cask raspberry-pi-imager
 brew install --cask tradingview
 brew install --cask todoist
-brew install --cask 
 
 # Dev Tools
 echo "Installing web/dev tools..."
@@ -154,7 +158,7 @@ brew install httpie
 brew install node
 brew install nvm
 brew install --cask hammerspoon
-brew install wireshark
+brew install --cask wireshark
 brew install --cask yubico-yubikey-manager
 brew install jupyter
 
@@ -172,7 +176,6 @@ brew install --cask signal
 echo "Install browsers..."
 brew install --cask google-chrome
 brew install --cask firefox
-brew cask install homebrew/cask-versions/firefox-developer-edition
 brew install --cask brave-browser
 
 # set Chrome as default browser
@@ -195,10 +198,10 @@ brew install mackup
 brew install --cask obsidian
 brew install --cask typora
 brew install --cask sublime-text
-brew cask install macdown
-brew cask install marked
-brew cask install calibre
-brew install microsoft-office
+brew install --cask macdown
+brew install --cask marked
+brew install --cask calibre
+brew install --cask microsoft-office
 
 
 # Other
@@ -276,7 +279,6 @@ echo ""
 brew update
 brew upgrade brew-cask
 brew cleanup
-brew cask cleanup
 brew tap caskroom/fonts
 
 # System Preferences

@@ -1,5 +1,6 @@
 #!/bin/sh
 
+
 # # Homebrew Script for OSX
 # # To execute: save and `chmod +x ./brew-install-script.sh` then `./brew-install-script.sh`
 
@@ -111,29 +112,29 @@
 echo "Installing Apps"
 
 echo "System apps..."
+brew install bash-completion 
+brew install zsh-completions
+brew install tree 
+brew install wget
+brew install findutils
+brew install go
+brew install tmux
+brew install tree
+brew install htop
+brew install --cask tunnelblick
+brew install --cask iterm2
+brew install --cask the-unarchiver
 
 echo "Installing oh-my-zsh" # https://sourabhbajaj.com/mac-setup/iTerm/zsh.html
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 
-brew install bash-completion 
-brew install zsh-completions
-brew install tree 
 brew install --cask rectangle
-brew install wget
-brew install findutils
 brew install --cask numi
-brew install --cask tunnelblick
-brew install go
-brew install tmux
-brew install tree
-brew install htop
 brew install --cask alfred
-brew install --cask notion
-brew install --cask iterm2
+
 brew install tldr # man pages https://tldr.sh/
 brew install dash
-brew install --cask the-unarchiver
 brew install --cask android-file-transfer
 brew install --cask notion
 brew install transmit
@@ -143,6 +144,7 @@ brew install --cask imageoptim
 brew install --cask raspberry-pi-imager
 brew install --cask tradingview
 brew install --cask todoist
+brew install --cask cleanshot 
 
 # Dev Tools
 echo "Installing web/dev tools..."
@@ -192,7 +194,6 @@ brew install --cask box-drive
 echo "Installing writing apps..."
 brew install pandoc
 brew install --cask zotero
-#brew install --cask microsoft-word
 brew install --cask mark-text
 brew install mackup
 brew install --cask obsidian

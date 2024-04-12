@@ -16,55 +16,6 @@ First install Homebrew in order to efficiently install other apps.
 brew install git
 ```
 
-Install ZSH & oh-my-zsh
-- https://github.com/ohmyzsh/ohmyzsh
-- https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
-- https://blog.larsbehrenberg.com/how-to-install-custom-plugins-and-themes-with-oh-my-zsh#where-to-find-your-plugins-and-themes
-- https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
-
-
-Begin by installing `zsh`
-
-```
-brew install zsh
-```
-
-Install 
-```
-brew install zsh && sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-```
-
-Clone oh-on-zsh
-```
-git clone http://github.com/robbyrussell/oh-my-zsh ~/.oh-my-zsh
-```
-
-<!-- ```
-curl -O https://raw.githubusercontent.com/MartinSeeler/iterm2-material-design/master/material-design-colors.itermcolors
-``` -->
-
-Install zsh-autosuggestions
-```
-git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
-```
-
-**zsh plugins**
-```
-plugins=(
-  git
-  bundler
-  dotenv
-  macos
-  rake
-  zsh-autosuggestions
-  last-working-dir
-  web-search
-  cloudfoundry
-  history
-)
-```
-
-
 Clone the repo to the desktop
 ```
 git clone https://github.com/Philokane/Fresh-Mac-Install-2024.git
@@ -78,6 +29,8 @@ Run file
 ```
 ./appsinstall2024.sh
 ```
+
+
 
 **Pointer Control**
 Double-click speed `80%`
@@ -101,8 +54,9 @@ Dragging style `With Drag Lock`
 
 **Sidebar**
 
-Uncheck all but:
+Uncheck all but
 
+- Uncheck all but
 - Applications
 - Desktop
 - Documents

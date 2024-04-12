@@ -178,7 +178,7 @@ Label position `Right`
 - Show scroll bars - Always
 - Click in the scroll bar to - Jump to the spot that's clicked.
 
-![Appearance](images/CleanShot%202024-04-11%20at%2012.02.39@2x.png)
+<img src="images/CleanShot%202024-04-11%20at%2012.02.39@2x.png" width="500">
 
 ### Accessibility
 
@@ -197,7 +197,7 @@ Dragging style `With Drag Lock`
 - Modifier key `^ Control`
 - Zoom style - Full Screen
 
-![Zoom](images/CleanShot%202024-04-11%20at%2012.24.36@2x.png)
+<img src="images/CleanShot%202024-04-11%20at%2012.24.36@2x.png" width="500">
 **Keyboard**
 
 - Key repeat rate - `Fast`
@@ -208,6 +208,7 @@ Dragging style `With Drag Lock`
 - Press fn key to `Do Nothing`
 
 ### Keyboard shortcuts
+<img src="/images/2024-04-12 at 12.36.23@2x.png" width="500">
 
 **Launchpad & Doc**
 - Uncheck both

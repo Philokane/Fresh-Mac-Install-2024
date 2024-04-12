@@ -6,6 +6,8 @@ First change is to enable touch to click and drag lock in the Accessibility sett
 
 First install Homebrew in order to efficiently install other apps.
 
+![Fresh Mac Install 2024](/images/fresh-macbookinstall2024.jpg)
+
 - Install [apps](/appsinstall2024.sh)
 - Run [preferences update](/macprefs2024.sh)
 - [Follow guide](/Fresh%20Mac%20Install%202024) for updating manual preferences and activating apps
@@ -23,7 +25,7 @@ Install Git
 ```
 brew install git
 ```
-
+---
 Install ZSH & oh-my-zsh
 - https://github.com/ohmyzsh/ohmyzsh
 - https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
@@ -37,12 +39,11 @@ Begin by installing `zsh`
 brew install zsh
 ```
 
-Install 
 ```
 brew install zsh && sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
-Clone oh-on-zsh
+Clone oh-my-zsh
 ```
 git clone http://github.com/robbyrussell/oh-my-zsh ~/.oh-my-zsh
 ```
@@ -71,21 +72,30 @@ plugins=(
   history
 )
 ```
+---
 
-
-Clone the repo to the desktop
+### Installation 
+Clone the repo.
 ```
 git clone https://github.com/Philokane/Fresh-Mac-Install-2024.git
 ```
 
 Make file executable: 
 ```
-chmod u+x appsinstall2024.sh
+chmod u+x appsinstall2024.sh macprefs2024.sh
 ```
-Run file
+Run `appsinstall2024.sh` shell script.
 ```
 ./appsinstall2024.sh
 ```
+
+Run `macprefs2024.sh` shell script
+```
+./macprefs2024.sh
+```
+---
+
+### Manual Preferences Configurations
 
 **Pointer Control**
 Double-click speed `80%`
@@ -208,6 +218,7 @@ Dragging style `With Drag Lock`
 **Mission Control**
 
 - Uncheck all except `Mission Control` `Application windows` `Mission Control > Move Left a space | > Move right a space`
+- `✔️ Show Notification Centre` Set shortcut: `⌘⌥k` 
 
 **Keyboard** - leave all checked (this may be updated in the future)
 

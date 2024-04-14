@@ -200,7 +200,6 @@ brew install --cask obsidian
 brew install --cask typora
 brew install --cask sublime-text
 brew install --cask macdown
-brew install --cask marked
 brew install --cask calibre
 brew install --cask microsoft-office
 

@@ -6,26 +6,16 @@ First change is to enable touch to click and drag lock in the Accessibility sett
 
 First install Homebrew in order to efficiently install other apps.
 
-![Fresh Mac Install 2024](/images/fresh-macbookinstall2024.jpg)
-
-- Install [apps](/appsinstall2024.sh)
-- Run [preferences update](/macprefs2024.sh)
-- [Follow guide](/Fresh%20Mac%20Install%202024) for updating manual preferences and activating apps
-`
-
-Next install Homebrew.
-This app allows for command line installation of Mac applications.
+- Install Homebrew
 
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-
-Install Git
-
+- Install Git
 ```
 brew install git
 ```
----
+
 Install ZSH & oh-my-zsh
 - https://github.com/ohmyzsh/ohmyzsh
 - https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
@@ -39,11 +29,12 @@ Begin by installing `zsh`
 brew install zsh
 ```
 
+Install 
 ```
 brew install zsh && sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
-Clone oh-my-zsh
+Clone oh-on-zsh
 ```
 git clone http://github.com/robbyrussell/oh-my-zsh ~/.oh-my-zsh
 ```
@@ -72,30 +63,21 @@ plugins=(
   history
 )
 ```
----
 
-### Installation 
-Clone the repo.
+
+Clone the repo to the desktop
 ```
 git clone https://github.com/Philokane/Fresh-Mac-Install-2024.git
 ```
 
 Make file executable: 
 ```
-chmod u+x appsinstall2024.sh macprefs2024.sh
+chmod u+x appsinstall2024.sh
 ```
-Run `appsinstall2024.sh` shell script.
+Run file
 ```
 ./appsinstall2024.sh
 ```
-
-Run `macprefs2024.sh` shell script
-```
-./macprefs2024.sh
-```
----
-
-## Manual Preferences Configurations
 
 **Pointer Control**
 Double-click speed `80%`
@@ -173,12 +155,12 @@ Label position `Right`
 
 ### Appearance
 
-- Appearance: `Dark`
-- Colour: `Accent Colour`
-- Show scroll bars - `Always`
-- Click in the scroll bar to - `Jump to the spot that's clicked`
+- Dark
+- Colour: Accent Colour
+- Show scroll bars - Always
+- Click in the scroll bar to - Jump to the spot that's clicked.
 
-<img src="images/CleanShot%202024-04-11%20at%2012.02.39@2x.png" width="500">
+![Appearance](images/CleanShot%202024-04-11%20at%2012.02.39@2x.png)
 
 ### Accessibility
 
@@ -196,8 +178,9 @@ Dragging style `With Drag Lock`
 - Use scroll gestiure with modifier keys to zoom ✔️
 - Modifier key `^ Control`
 - Zoom style - Full Screen
+- Advanced >> `Continuously with Pointer`
 
-<img src="images/CleanShot%202024-04-11%20at%2012.24.36@2x.png" width="500">
+![Zoom](images/CleanShot%202024-04-11%20at%2012.24.36@2x.png)
 **Keyboard**
 
 - Key repeat rate - `Fast`
@@ -208,7 +191,6 @@ Dragging style `With Drag Lock`
 - Press fn key to `Do Nothing`
 
 ### Keyboard shortcuts
-<img src="/images/2024-04-12 at 12.36.23@2x.png" width="500">
 
 **Launchpad & Doc**
 - Uncheck both
@@ -219,7 +201,6 @@ Dragging style `With Drag Lock`
 **Mission Control**
 
 - Uncheck all except `Mission Control` `Application windows` `Mission Control > Move Left a space | > Move right a space`
-- `✔️ Show Notification Centre` Set shortcut: `⌘⌥k` 
 
 **Keyboard** - leave all checked (this may be updated in the future)
 

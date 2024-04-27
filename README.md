@@ -109,10 +109,10 @@ Dragging style `With Drag Lock`
 
 ### Finder Preferences
 
-<img src="images/2024-04-27 at 17.06.00@2x.png" width="500">
-<img src="images/2024-04-27 at 17.04.43@2x.png" width="500">
-<img src="images/2024-04-27 at 17.06.27@2x.png" width="500">
-<img src="images/2024-04-27 at 17.07.26@2x.png" width="500">
+<img src="images/2024-04-27 at 17.06.00@2x.png" width="300">
+<img src="images/2024-04-27 at 17.04.43@2x.png" width="300">
+<img src="images/2024-04-27 at 17.06.27@2x.png" width="300">
+<img src="images/2024-04-27 at 17.07.26@2x.png" width="300">
 
 
 - General > Uncheck all.

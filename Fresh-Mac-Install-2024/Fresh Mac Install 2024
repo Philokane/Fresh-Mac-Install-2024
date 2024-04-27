@@ -179,17 +179,21 @@ Dragging style `With Drag Lock`
 - Modifier key `^ Control`
 - Zoom style - Full Screen
 - Advanced >> `Continuously with Pointer`
-![Zoom](images/2024-04-14 at 20.36.34@2x.png)
 
-![Zoom](images/CleanShot%202024-04-11%20at%2012.24.36@2x.png)
+![Zoom](../images/CleanShot%202024-04-11%20at%2012.24.36@2x.png)
+
 **Keyboard**
 
+![Zoom](../images/2024-04-12%20at%2012.34.14@2x.png)
 - Key repeat rate - `Fast`
 - Delay until repeat - `short`
 - Adjust keyboard brightness in low light `off`
 - Keyboard brightness `max`
 - Turn keyboard backlight off after inactivity - `Never`
 - Press fn key to `Do Nothing`
+
+
+
 
 ### Keyboard shortcuts
 
@@ -269,7 +273,7 @@ Animate opening applications `Off`
 
 **Desktop & Stage Manager**
 Show Items >> `x` `x`
-Click Wallpaper to reveal desktop `Only on Stage Manager`
+Click Wallpaper to reveal desktop `Only on Stage Manager'
 
 Stage Manager `x`
 Show Widgets `x` `x`

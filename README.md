@@ -108,6 +108,11 @@ Dragging style `With Drag Lock`
 ### System Preferences
 
 ### Finder Preferences
+![alt text](</Fresh-Mac-Install-2024/2024-04-27 at 17.06.00@2x.png>)
+![alt text](</Fresh-Mac-Install-2024/2024-04-27 at 17.04.43@2x.png>)
+![alt text](</Fresh-Mac-Install-2024/2024-04-27 at 17.06.27@2x.png>)
+![alt text](</Fresh-Mac-Install-2024/2024-04-27 at 17.07.26@2x.png>)
+
 
 - General > Uncheck all.
 - New Finder windows show $Home

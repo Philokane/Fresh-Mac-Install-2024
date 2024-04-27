@@ -108,12 +108,11 @@ Dragging style `With Drag Lock`
 ### System Preferences
 
 ### Finder Preferences
-<img src="images/CleanShot%202024-04-11%20at%2012.24.36@2x.png" width="500">
 
-<img src="/Fresh-Mac-Install-2024/2024-04-27 at 17.06.00@2x.png" width="500">
-<img src="/Fresh-Mac-Install-2024/2024-04-27 at 17.04.43@2x.png" width="500">
-<img src="/Fresh-Mac-Install-2024/2024-04-27 at 17.06.27@2x.png" width="500">
-<img src="/Fresh-Mac-Install-2024/2024-04-27 at 17.07.26@2x.png" width="500">
+<img src="images/2024-04-27 at 17.06.00@2x.png" width="500">
+<img src="images/2024-04-27 at 17.04.43@2x.png" width="500">
+<img src="images/2024-04-27 at 17.06.27@2x.png" width="500">
+<img src="images/2024-04-27 at 17.07.26@2x.png" width="500">
 
 
 - General > Uncheck all.

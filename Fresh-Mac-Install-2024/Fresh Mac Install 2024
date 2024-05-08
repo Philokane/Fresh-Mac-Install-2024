@@ -309,3 +309,8 @@ Use Touch ID - Enable fingerprint
 
 Install Bypass Paywalls Chrome extension
 [https://github.com/iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
+
+- Unzip file
+- Open `chrome://extensions` 
+- `Check Developer Mode`
+- Select `Load Unpacked`

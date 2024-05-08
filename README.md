@@ -319,3 +319,4 @@ Show password hints `x`
 ### Touch ID
 
 Use Touch ID - Enable fingerprint
+

@@ -294,31 +294,31 @@ Automatically hide and show Dock `On`
 Animate opening applications `Off`  
 
 **Desktop & Stage Manager**
-Show Items >> `x` `x`
-Click Wallpaper to reveal desktop `Only on Stage Manager`
+Show Items >> `x` `x`  
+Click Wallpaper to reveal desktop `Only on Stage Manager`  
 
-Stage Manager `x`
-Show Widgets `x` `x`
-Use iPhone widgets `x`
-Default web browser `x`
+Stage Manager `x`  
+Show Widgets `x` `x`  
+Use iPhone widgets `x`  
+Default web browser `x`  
 
-**Hot Corners**
-Top Right `Application Windows`
-Top Left `Mission Control`
-Bottom Right `Desktop`
-Bottom Left `-`
+**Hot Corners**  
+Top Right `Application Windows`  
+Top Left `Mission Control`  
+Bottom Right `Desktop`  
+Bottom Left `-`  
 
-### Screensaver
+### Screensaver  
 
-**Lock Screen Settings**
-Start Screen Saver when inactive `10 mins`
-Turn discplay off on battery when inactive `2 mins`
-Turn display off on power adapter `30mins`
-Require password after `1 min`
-Show username and photo `x`
-Show password hints `x`
+**Lock Screen Settings**  
+Start Screen Saver when inactive `10 mins`  
+Turn discplay off on battery when inactive `2 mins`  
+Turn display off on power adapter `30mins`  
+Require password after `1 min`  
+Show username and photo `x`  
+Show password hints `x`  
 
-### Touch ID
+### Touch ID  
 
-Use Touch ID - Enable fingerprint
+Use Touch ID - Enable fingerprint  
 

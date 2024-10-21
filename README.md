@@ -286,12 +286,12 @@ Dock Size `10%`
 
 Magnification `10%`
 
-Position `Left`
-Minimise windows using `Scale Effect`
-Double-click a window's title bar to `Do Nothing`
-Minimuse windows into application icon `Off`
-Automatically hide and show Dock `On`
-Animate opening applications `Off`
+Position `Left`  
+Minimise windows using `Scale Effect`  
+Double-click a window's title bar to `Do Nothing`  
+Minimuse windows into application icon `Off`  
+Automatically hide and show Dock `On`  
+Animate opening applications `Off`  
 
 **Desktop & Stage Manager**
 Show Items >> `x` `x`

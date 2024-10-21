@@ -152,7 +152,6 @@ brew install --cask visual-studio-code
 echo "Installing development tools..."
 brew install docker
 brew install git
-brew install wget
 brew install hashicorp/tap/terraform
 brew install speedtest-cli
 brew install awscli

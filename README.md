@@ -283,7 +283,9 @@ Nothing set atm
 ### Desktop & Dock
 
 Dock Size `10%`
+
 Magnification `10%`
+
 Position `Left`
 Minimise windows using `Scale Effect`
 Double-click a window's title bar to `Do Nothing`

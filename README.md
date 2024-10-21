@@ -148,7 +148,7 @@ Uncheck all but
 - In windows when sorting by name
 
  When performing a search:
- 'Search the current folder'
+ 'Search this Mac'
 
 ### Desktop Preferences (Right-click on Desktop)
 

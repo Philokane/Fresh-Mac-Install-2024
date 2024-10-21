@@ -224,7 +224,7 @@ Dragging style `With Drag Lock`
 
 **Mission Control**
 
-- Uncheck all except `Mission Control` `Application windows` `Mission Control > Move Left a space | > Move right a space`
+- Uncheck all except `Mission Control`, `Application windows`, `Mission Control > Move Left a space | > Move right a space`
 - `✔️ Show Notification Centre` Set shortcut: `⌘⌥k` 
 
 **Keyboard** - leave all checked (this may be updated in the future)
